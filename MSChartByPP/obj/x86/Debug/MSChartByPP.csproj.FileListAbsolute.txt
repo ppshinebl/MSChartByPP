@@ -1,0 +1,9 @@
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\GeneratingSetMonitor.ChartByPP.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\MSChartByPP.Properties.Resources.resources
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\bin\Debug\MSChartByPP.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\MSChartByPP.pdb
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\bin\Debug\MSChartByPP.dll
+c:\documents and settings\administrator\my documents\visual studio 2010\Projects\MSChartByPP\MSChartByPP\obj\x86\Debug\MSChartByPP.dll
